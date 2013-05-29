@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution File-Temp-Rename,
-version 0.01:
+version 0.02:
 
   Create a temporary file object for output, and rename it when done.
 

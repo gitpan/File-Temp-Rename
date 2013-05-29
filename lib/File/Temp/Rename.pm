@@ -1,4 +1,7 @@
 package File::Temp::Rename;
+{
+  $File::Temp::Rename::VERSION = '0.02';
+}
 # ABSTRACT: Create a temporary file object for output, and rename it when done.
 
 use strict;
@@ -51,7 +54,7 @@ File::Temp::Rename - Create a temporary file object for output, and rename it wh
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

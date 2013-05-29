@@ -64,7 +64,7 @@ antee - read input from STDIN, write to a temporary staging file, and rename it 
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
